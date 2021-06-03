@@ -7,9 +7,9 @@
 
 ![](/img/johannacap1.png)
 
-![](/img/capturaKeylausuario.png)
+![](/img/capturaKeylausuario.PNG)
 *Captura del aspecto usuario.
 
-![](/img/capturaKeylabanco.png)
+![](/img/capturaKeylabanco.PNG)
 *Captura del aspecto banco.
 
