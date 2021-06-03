@@ -1,3 +1,7 @@
 Transaccion 00:11:46
 Transaccion 00:13:51
 Retiro de Dinero 00:14:09
+Transaccion 10:56:10
+Retiro de Dinero 10:56:21
+Transaccion 10:56:50
+Retiro de Dinero 10:57:02
