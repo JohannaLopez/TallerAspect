@@ -5,7 +5,7 @@
 *Captura del aspecto usuario.
 
 
-![](/img/johannacap1.png)
+![](/img/johannacap.png)
 
 ![](/img/capturaKeylausuario.PNG)
 *Captura del aspecto usuario.
